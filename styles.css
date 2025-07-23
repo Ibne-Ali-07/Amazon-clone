@@ -281,7 +281,7 @@ ul p{
 	
 }
 .logo{
-	background-image: url('logo.png');
+	background-image: url('./Assets/logo.jng');
 	width: 100px;
 	cursor: pointer;
 }
