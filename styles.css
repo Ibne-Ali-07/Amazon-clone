@@ -20,7 +20,7 @@ header{
 }
 
 .logo{
-	background-image:url('logo.png');
+	background-image:url('./Assets/logo.png');
 	height: 60px;
 	width: 100%;
 	background-size: cover;
@@ -158,7 +158,7 @@ span{
 /*HERO-----SECTION*/
 
 .hero-section{
-	background-image: url('hero_image.jpg');
+	background-image: url('./Assets/hero_image.jpg');
 	height: 300px;
 	width: 100%;
 	background-size: cover;
@@ -260,7 +260,7 @@ ul a{
 	padding-top: 10px;
 	color: #C5D0DC;
 	font-size: 0.90rem;
-    opacity: ;
+        opacity: ;
 
 }
 ul p{
@@ -280,7 +280,7 @@ ul p{
 	
 }
 .logo{
-	background-image: url('logo.png');
+	background-image: url('./Assets/logo.png');
 	width: 100px;
 	cursor: pointer;
 }
