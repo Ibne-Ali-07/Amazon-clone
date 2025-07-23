@@ -15,15 +15,16 @@ header{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	position: relative;   
-	top: 0px;
+	position: relative;
+    top: 0px;
 }
 
-.logo{
-	background-image:url('./Assets/logo.png');
-	height: 60px;
+
+	
+}
+.logo img {
 	width: 100%;
-	background-size: cover;
+	height: 100%;
 }
 .nav-logo{
 	height: 50px;
@@ -260,7 +261,7 @@ ul a{
 	padding-top: 10px;
 	color: #C5D0DC;
 	font-size: 0.90rem;
-        opacity: ;
+    opacity: ;
 
 }
 ul p{
@@ -280,7 +281,7 @@ ul p{
 	
 }
 .logo{
-	background-image: url('./Assets/logo.png');
+	background-image: url('logo.png');
 	width: 100px;
 	cursor: pointer;
 }
