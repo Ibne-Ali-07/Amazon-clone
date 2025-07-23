@@ -155,10 +155,14 @@ span{
 /*HERO-----SECTION*/
 
 .hero-section{
-	background-image: url('./Assets/hero_image.jpg');
 	height: 300px;
 	width: 100%;
 	background-size: cover;
+
+}
+.hero-section img{
+	height: 150%;
+	width: 100%;
 }
 
 /*SHOP-------SECTION*/
