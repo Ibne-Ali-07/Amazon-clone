@@ -15,8 +15,8 @@ header{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	position: relative;
-    top: 0px;
+	position: relative;   
+	top: 0px;
 }
 
 .logo{
